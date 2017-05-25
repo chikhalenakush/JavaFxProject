@@ -40,5 +40,28 @@
 	<classpathentry kind="lib" path="lib2/xercesImpl-2.11.0.jar"/>
 	<classpathentry kind="lib" path="lib2/xml-apis-1.4.01.jar"/>
 	<classpathentry kind="lib" path="lib2/ddmsDTWApplet.jar"/>
+	<classpathentry kind="lib" path="lib2/access-bridge-64.jar"/>
+	<classpathentry kind="lib" path="lib2/charsets.jar"/>
+	<classpathentry kind="lib" path="lib2/cldrdata.jar"/>
+	<classpathentry kind="lib" path="lib2/deploy.jar"/>
+	<classpathentry kind="lib" path="lib2/dnsns.jar"/>
+	<classpathentry kind="lib" path="lib2/jaccess.jar"/>
+	<classpathentry kind="lib" path="lib2/javaws.jar"/>
+	<classpathentry kind="lib" path="lib2/jce.jar"/>
+	<classpathentry kind="lib" path="lib2/jfr.jar"/>
+	<classpathentry kind="lib" path="lib2/jfxrt.jar"/>
+	<classpathentry kind="lib" path="lib2/jfxswt.jar"/>
+	<classpathentry kind="lib" path="lib2/jsse.jar"/>
+	<classpathentry kind="lib" path="lib2/localedata.jar"/>
+	<classpathentry kind="lib" path="lib2/management-agent.jar"/>
+	<classpathentry kind="lib" path="lib2/nashorn.jar"/>
+	<classpathentry kind="lib" path="lib2/plugin.jar"/>
+	<classpathentry kind="lib" path="lib2/resources.jar"/>
+	<classpathentry kind="lib" path="lib2/rt.jar"/>
+	<classpathentry kind="lib" path="lib2/sunec.jar"/>
+	<classpathentry kind="lib" path="lib2/sunjce_provider.jar"/>
+	<classpathentry kind="lib" path="lib2/sunmscapi.jar"/>
+	<classpathentry kind="lib" path="lib2/sunpkcs11.jar"/>
+	<classpathentry kind="lib" path="lib2/zipfs.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
